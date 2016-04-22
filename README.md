@@ -4,6 +4,6 @@
 <body> 
 <p>so there is nothing to do now<p>
 
-<p>Guess we should <p>
+<p>Guess we should say goodbye<p>
 </body>
 </html>
